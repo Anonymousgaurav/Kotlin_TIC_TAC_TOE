@@ -5,6 +5,6 @@
     <color name="colorAccent">#D81B60</color>
     <color name="whitebackground">#D3D3D3</color>
     <color name="whitebutton">#FFFFFF</color>
-    <color name="Player1">#4CAF50</color>
-    <color name="Player2">#FF5722</color>
+    <color name="Player1">#CE55E2</color>
+    <color name="Player2">#3595E2</color>
 </resources>
